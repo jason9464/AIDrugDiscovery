@@ -1,4 +1,6 @@
-# Repository Overview
+# AIDrugDiscovery
+
+## Repository Overview
 
 본 저장소는 항체, 신규 합성 화합물, 약물 재창출 분야에서 후보 치료제를 발굴하기 위한 인공지능 코드를 오픈소스로 제공합니다.  
 
