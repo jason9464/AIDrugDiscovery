@@ -10,6 +10,6 @@
 
 각 디렉토리는 다음과 같은 세부 프로젝트와 연결됩니다:
 
-**1.Transformer** → AI platform for antibody candidate discovery  
-**2.GraphDTA_Transformer** → AI platform for drug repurposing candidate discovery  
-**3.GraphDF_Guacamol** → AI platform for de novo compound candidate discovery  
+**1.Transformer** → 항체 유효물질 발굴 플랫폼 인공지능 서비스
+**2.GraphDTA_Transformer** → 약물재창출 유효물질 발굴 플랫폼 인공지능 서비스 
+**3.GraphDF_Guacamol** → 신규합성화합물 의약품 유효물질 발굴 플랫폼 인공지능 서비스  
