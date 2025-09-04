@@ -1,0 +1,3 @@
+Fold num: 5, epochs: 100
+Mean acc: 0.6092
+Std: 0.0025
